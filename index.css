@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 400px;
+    height: 550px;
+    position: relative;
+    left: 25%;
+    top: 50px;
+}
+input{
+    width: 70px;
+    height: 80px;
+    font-size: larger;
+}
+#dis{
+    width: 365px;
+}
+#functionB{
+    background-color: rgba(172, 197, 197, 0.842);
+}
+input:hover{
+    background-color: rgb(159, 215, 19);
+}
+#functionB:hover{
+    background-color: rgb(159, 215, 19);;
+}
+#sevPercent, #fivePercent{
+    width: 182px;
+    background-color:rgb(255, 127, 161);
+}
+
